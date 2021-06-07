@@ -1,4 +1,4 @@
-function mutation(arr) {
+function mutations(arr) {
   return arr[1]
     .toLowerCase()
     .split("")
